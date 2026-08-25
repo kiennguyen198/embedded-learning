@@ -1,0 +1,14 @@
+progress.md
+learning-log.md
+
+.vscode/
+.pio/
+build/
+*.o
+*.elf
+*.bin
+*.hex
+
+.env
+secrets.h
+credentials.h
