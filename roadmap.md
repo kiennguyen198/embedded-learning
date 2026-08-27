@@ -13,17 +13,7 @@
 - `struct` and `enum`
 - Header and source file organization
 
-## 2. Essential Electronics and Digital Logic
-
-- Voltage, current, resistance, and power
-- Logic voltage levels
-- Pull-up and pull-down resistors
-- Binary and hexadecimal
-- Basic Boolean logic
-- Bit fields and register operations
-- Finite state machines
-
-## 3. Microcontroller Fundamentals
+## 2. Microcontroller Fundamentals
 
 - CPU, registers, RAM, and Flash
 - Datasheets and pin configuration
@@ -36,7 +26,7 @@
 - ADC
 - Watchdog
 
-## 4. Communication Protocols
+## 3. Communication Protocols
 
 Learning order: UART → I2C → SPI → CAN
 
@@ -52,7 +42,7 @@ Learning order: UART → I2C → SPI → CAN
 - ESP32 implementation
 - STM32 implementation
 
-## 5. RTOS
+## 4. RTOS
 
 - Tasks and task states
 - Scheduler
@@ -65,7 +55,7 @@ Learning order: UART → I2C → SPI → CAN
 - Race conditions
 - Stack usage
 
-## 6. Embedded Linux
+## 5. Embedded Linux
 
 - Linux command line
 - Filesystem and permissions
@@ -74,7 +64,7 @@ Learning order: UART → I2C → SPI → CAN
 - UART from userspace
 - I2C from userspace
 
-## 7. Debugging
+## 6. Debugging
 
 - Serial logging
 - Compiler warnings
@@ -83,7 +73,7 @@ Learning order: UART → I2C → SPI → CAN
 - Logic analyzer
 - Systematic debugging
 
-## 8. Projects
+## 7. Projects
 
 - GPIO and button controller
 - Non-blocking traffic light
