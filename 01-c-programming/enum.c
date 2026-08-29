@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-typedef enum
+typedef enum // kích thước thường khoảng 4 byte do lưu dưới dạng int
 {
     LIGHT_RED,
     LIGHT_GREEN,
